@@ -1,2 +1,2 @@
 # image-capture
-Capturing and displaying photo using openCV
+Capturing and displaying photo using openCV.
